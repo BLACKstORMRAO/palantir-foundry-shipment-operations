@@ -1,4 +1,4 @@
-🏭 Palantir Foundry — Shipment & Orders Operations Platform
+Palantir Foundry — Shipment & Orders Operations Platform
 
 Built as part of the Analyticore Palantir Foundry Foundations Program (March 2026)
 An end-to-end data operations platform built on Palantir Foundry covering data ingestion, pipeline transformation, ontology modeling, Workshop app development, and AIP Logic automation.
@@ -120,4 +120,4 @@ Kashish Yadav — Data Analyst
 
 📧 kashishrao68@gmail.com
 💼 LinkedIn
-🐙 GitHub
+
